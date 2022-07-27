@@ -9,7 +9,8 @@ get the plugin and place it in folder:
 
 step 2:
 generate the solution of visual studio
-![image](https://user-images.githubusercontent.com/8192020/181269140-71222f9a-564c-4a05-a43a-890157bb81e9.png)
+![image](https://user-images.githubusercontent.com/8192020/181284254-7f144f34-4afd-4ffb-89d2-0eeaf56b3f35.png)
+
 
 step 3:
 build solution
