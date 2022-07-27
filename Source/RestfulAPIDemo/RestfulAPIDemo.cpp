@@ -1,4 +1,4 @@
-// Copyright (c) 2022, Macro Gu <macro.gu@hotmail.com>. All Rights Reserved.
+// Copyright (c) 2022, Hong Gu <guhong.usa@gmail.com>. All Rights Reserved.
 
 #include "RestfulAPIDemo.h"
 #include "Modules/ModuleManager.h"
