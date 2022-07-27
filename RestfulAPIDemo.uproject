@@ -9,5 +9,12 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
+	],
+	"Plugins": [
+		{
+			"Name": "RestfulClient",
+			"Enabled": true,
+			"MarketplaceURL": ""
+		}
 	]
 }
