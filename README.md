@@ -4,11 +4,11 @@ plugin link:
 [虚幻商场](https://www.unrealengine.com/marketplace/zh-CN/product/restful-api-json-web-token-http?lang=zh-CN)  
 [Unreal Market](https://www.unrealengine.com/marketplace/en-US/product/restful-api-json-web-token-http)  
 introduction videos：   
-[B站中国](https://www.bilibili.com/video/BV1cF411A7Ex?share_source=copy_web&vd_source=74c5a7ee7e63695eed9e0f75ba7bbc88)  
-[B站中国](https://www.bilibili.com/video/BV1Z94y1D7BV?share_source=copy_web&vd_source=74c5a7ee7e63695eed9e0f75ba7bbc88)  
+[B站中国 第一部分](https://www.bilibili.com/video/BV1cF411A7Ex?share_source=copy_web&vd_source=74c5a7ee7e63695eed9e0f75ba7bbc88)  
+[B站中国 第一部分](https://www.bilibili.com/video/BV1Z94y1D7BV?share_source=copy_web&vd_source=74c5a7ee7e63695eed9e0f75ba7bbc88)  
 [YouTuBe](https://www.youtube.com/watch?v=OoNrNrngZdA&t=5s)  
-[YouTuBe](https://youtu.be/jYEhRYz5ZXA)  
-[YouTuBe](https://youtu.be/OoNrNrngZdA)  
+[YouTuBe Part One](https://youtu.be/jYEhRYz5ZXA)  
+[YouTuBe Part Two](https://youtu.be/OoNrNrngZdA)  
 
 
 for plugin usage :  
