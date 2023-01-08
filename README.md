@@ -33,7 +33,7 @@ step 5:
 get token:  
 ![image](https://user-images.githubusercontent.com/8192020/181269757-0064fbfc-5f82-4906-90ba-d447ef92c326.png)
 fill the parameter to get token need  
-![image](https://user-images.githubusercontent.com/8192020/181289187-c343f45a-8b41-4ed5-8842-2533827daf2d.png)
+![image](https://user-images.githubusercontent.com/8192020/181289187-c343f45a-8b41-4ed5-8842-2533827daf2d.png)  
 add the on success and on failed event for send get token request  
 ![image](https://user-images.githubusercontent.com/8192020/181289314-91674359-1aab-4675-87c4-ba7a66132d8f.png)
 store the token we get from the server and it could be used later  
@@ -43,12 +43,12 @@ store the token we get from the server and it could be used later
 
 step 6:  
 use token send request:   
-![image](https://user-images.githubusercontent.com/8192020/181269853-c323401e-84ae-4350-86a0-741f1f740807.png)
+![image](https://user-images.githubusercontent.com/8192020/181269853-c323401e-84ae-4350-86a0-741f1f740807.png)  
 this blueprint interface is used to send request to server with token  
-![image](https://user-images.githubusercontent.com/8192020/181289832-61c8065e-a8aa-4fa4-8a1a-f6cfb426eda3.png)
+![image](https://user-images.githubusercontent.com/8192020/181289832-61c8065e-a8aa-4fa4-8a1a-f6cfb426eda3.png)  
 here is the token we got before  
-![image](https://user-images.githubusercontent.com/8192020/181289880-8747286e-889f-4ac9-971c-44672f133992.png)
+![image](https://user-images.githubusercontent.com/8192020/181289880-8747286e-889f-4ac9-971c-44672f133992.png)  
 add the on success and on failed event of this request  
-![image](https://user-images.githubusercontent.com/8192020/181291126-def97897-0dbd-4c80-a8a1-539a2c919dfb.png)
+![image](https://user-images.githubusercontent.com/8192020/181291126-def97897-0dbd-4c80-a8a1-539a2c919dfb.png)  
 
 
